@@ -1,0 +1,1 @@
+Tienen que instalar el driver de la db, en STS es solo selecionar en la creacion del proyecto sql y oracle para que los agregue a las dependencias
